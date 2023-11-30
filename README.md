@@ -14,9 +14,11 @@ Box Dush - это захватывающая игра, где игрок упр�
 Разработано на C# с использованием фреймворка Unity.
 
 ## Скриншоты/Видео игры
-![Gameplay Screenshot1](https://drive.google.com/file/d/1G08Q46Tem2qjX3o1XfF6pTt2DPjhwcuK/view?usp=sharing)
-![Gameplay Screenshot2](https://drive.google.com/file/d/1M9Su4MS-3TmDla_XWQ7HhPKNhJWuile8/view?usp=sharing)
-![Gameplay Screenshot3](https://drive.google.com/file/d/1TGCfnA8UuJCq5ttRZOCWzBWqnPQNZyMv/view?usp=sharing)
+<p>
+  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1G08Q46Tem2qjX3o1XfF6pTt2DPjhwcuK" width="30%" height="30%">
+  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1M9Su4MS-3TmDla_XWQ7HhPKNhJWuile8" width="30%" height="30%">
+  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1TGCfnA8UuJCq5ttRZOCWzBWqnPQNZyMv" width="30%" height="30%">
+</p>
 
 ## Лицензия
 Этот проект распространяется под открытой лицензией. Это означает, что вы можете свободно использовать, изменять и распространять проект согласно условиям этой лицензии.
